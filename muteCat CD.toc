@@ -1,0 +1,8 @@
+## Interface: 120005, 120001
+## Title: |cFFFF00FFmuteCat|r CD
+## Notes: Lightweight, high-performance skinning for WoW 12.0 (Midnight) Cooldown Viewers.
+## Author: muteCat & Antigravity
+## Version: 1.1.0
+
+muteCat CD_Core.lua
+muteCat CD_Style.lua
